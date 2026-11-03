@@ -14,3 +14,4 @@ example.*
 *.log
 tests/test-*.spec.ts
 .DS_Store
+.claude/settings.local.json
