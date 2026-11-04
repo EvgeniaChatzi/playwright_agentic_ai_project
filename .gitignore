@@ -9,6 +9,7 @@ node_modules/
 /debug
 /logs
 allure-results/
+allure-report/
 tests-examples/
 example.*
 *.log
